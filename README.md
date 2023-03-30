@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on [https://appium-automation-qa.blogspot.com/](https://appium-automation-qa.blogspot.com/)
 
-- 💬 Ask me about **Appium**
+- 💬 Ask me about **Appium,Selenium,API Testing**
 
 - 📫 How to reach me **senthilkumar.mahendran@gmail.com**
 
